@@ -1,0 +1,12 @@
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/directori_istlt
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json

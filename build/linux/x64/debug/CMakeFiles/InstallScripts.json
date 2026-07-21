@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/cmake_install.cmake",
+		"/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/anina/Downloads/ISTLT/desarrollo_movil/practicas/directorio_istlt/directori_istlt/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
